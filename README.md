@@ -14,12 +14,23 @@
 수영을 할 줄 모르는 저의 한달 동안의 수영장(picsine)에서의 몸부림을 통해 코딩뿐만 아니라 정말 많은 부분을 배웠던 것 같습니다.
 
 
+
+
 ![KakaoTalk_20220226_133624393](https://user-images.githubusercontent.com/37369443/155928158-cb05a628-f5cf-424f-bf45-1c5a76852595.jpg)
+
 
 한달동안 약 300시간의 클러스터에서의 학습을 하였습니다. 
 
 
+
+
+
+
+
 ![KakaoTalk_20220226_133624393_02](https://user-images.githubusercontent.com/37369443/155928349-f3b48b3f-ad18-4ca0-a90a-0f62ee2980f9.jpg)
 ![KakaoTalk_20220226_133624393_03](https://user-images.githubusercontent.com/37369443/155928353-dcc36882-a1b4-4f5a-bc03-8c69c745159a.jpg)
+
+
+
 C00-C11, EXAM00-FINALEXAM 의 성적
 
